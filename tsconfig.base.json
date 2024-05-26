@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@acetech/ui-lib": ["libs/button/src/index.ts"]
+      "@acetech/ui-lib": ["libs/button/src/index.ts"],
+      "@ui-sandbox": ["libs/button/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
